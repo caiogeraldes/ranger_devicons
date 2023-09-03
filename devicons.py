@@ -270,7 +270,7 @@ dir_node_exact_matches = {
     'desktop'                          : '',
     'docs'                             : '',
     'down'                             : '',
-    '.dotfiles'                        : '',
+    'dotfiles'                        : '',
     'dropbox'                          : '',
     'mus'                              : '',
     'img'                              : '',
